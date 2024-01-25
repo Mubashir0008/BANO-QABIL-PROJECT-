@@ -1,0 +1,4 @@
+# BANO-QABIL-PROJECT
+Bano Qabil CIT WITH PHYTON PROGRAMMING
+Korangi Cumpas
+Timming 7 to 9
